@@ -19,7 +19,6 @@ We have the train & test data sets  we build our model with the train and test o
 
 Since this is a classification problems, we can start with classification algorithm like, Logistic regression, Naive bayes, decision trees, Linear discrimant analysis , Random forest etc.
 But in this exercise i am going to use decision tree for modelling.
-
 ----------
 
 
