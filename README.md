@@ -1,6 +1,5 @@
 
-#Hand on exercise 
-Modelling 
+#Building Predictive Modelling  exercise
 ===================
 
 This is a Hand on execise of a predictive modelling using R and Python
