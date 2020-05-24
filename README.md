@@ -1,8 +1,8 @@
 
-#Building Predictive Modelling  exercise
+#Building Predictive Modelling for Income predictions
 ===================
 
-This is a Hand on execise of a predictive modelling using R and Python
+This is written in  R Scripts Language
 
 * Hypothesis generation
 * Data exploration
@@ -17,9 +17,7 @@ predict population income group
 We have the train & test data sets  we build our model with the train and test our the model with a test dataset.
 
 Since this is a classification problems, we can start with classification algorithm like, Logistic regression, Naive bayes, decision trees, Linear discrimant analysis , Random forest etc.
-But in this exercise i am going to use decision tree for modelling.
+My selected ML Algorithms was to use decision tree for modelling.
 ----------
 
 
-Documents
--------------
